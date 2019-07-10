@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+p {
+    color: chocolate;
+    background-color: aliceblue;
+}
+a {
+    color: lightblue;
+
+}
+/*不要在css 中加html注释*/
